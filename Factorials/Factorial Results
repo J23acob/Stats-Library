@@ -1,0 +1,8 @@
+Factorial of 5 (using long): 120
+Factorial of 5 (using BigInteger): 120
+Factorial of 10 (using long): 3628800
+Factorial of 10 (using BigInteger): 3628800
+Factorial of 20 (using long): 2432902008176640000
+Factorial of 20 (using BigInteger): 2432902008176640000
+Factorial of 30 (using long): -8764578968847253504
+Factorial of 30 (using BigInteger): 265252859812191058636308480000000
