@@ -1,0 +1,5 @@
+Probability of both Event A and B occurring together (P(A and B)): 0.1
+Probability of Event B (P(B)): 0.4
+Calculation: P(A|B) = P(A and B) / P(B)
+Calculation: P(A|B) = 0.1 / 0.4
+The conditional probability of A given B (P(A|B)) is: 0.25
